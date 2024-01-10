@@ -1,0 +1,29 @@
+div {
+
+background-color: orange;
+color: blue;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+
+}
+
+#navbar {
+
+    color: red;
+    font-size: 20px;
+
+}
+
+#sidebar {
+
+    color: blue;
+    font-size: 16px;
+
+}
+
+#main {
+
+    color: green;
+    font-size: 12px;
+
+}
